@@ -1,0 +1,20 @@
+{
+  "name": "zksync-checker",
+  "version": "1.0.0",
+  "description": "Tool for check stats in ZkSync-Era",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProNodes11/ZkSync-checker.git"
+  },
+  "author": "TG: @dzirit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProNodes11/ZkSync-checker/issues"
+  },
+  "homepage": "https://github.com/ProNodes11/ZkSync-checker#readme",
+  "type": "module"
+}
