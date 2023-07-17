@@ -76,6 +76,7 @@ async function main() {
         await fetchInfo(wallet, 1, amountBridged, nonce, firstDay, lastDay, [])
         counter ++
     }
+    console.log(`Результаты записаны в файл ${filename}`)
 }
 
 main()
